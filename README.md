@@ -6,7 +6,7 @@ Name: ARAVAPALLI M ADITYA SRIRAM
 Course: Integrated Mtech in Artificial Intelligence
 🔗 Project Links
 Live Web Application: [https://car-price-prediction-app-00au.onrender.com](https://car-price-predictor-4ppt.onrender.com)
-GitHub Repository: [https://github.com/AkshatGarg2005/car-price-prediction-app](https://github.com/itzmeadi/CAR-PRICE-PREDICTOR)
+GitHub Repository: [https://github.com/itzmeadi/car-price-prediction-app](https://github.com/itzmeadi/CAR-PRICE-PREDICTOR)
 🛠️ Tech Stack & Ecosystem
 Core Language: Python 3.10
 Machine Learning & Data Processing: Scikit-learn, Pandas, NumPy
